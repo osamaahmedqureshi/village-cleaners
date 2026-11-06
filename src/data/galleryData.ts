@@ -11,7 +11,7 @@ export interface GalleryImage {
 export const GALLERY_DATA: GalleryImage[] = [
   {
     id: 'gallery-1',
-    src: '/src/assets/images/hero_garment_craft_1793993496017.jpg',
+    src: '/images/hero_garment_craft_1793993496017.jpg',
     title: 'Tailored Suiting & Fine Cotton',
     tag: 'Menswear & Finishing',
     aspect: 'portrait',
@@ -20,7 +20,7 @@ export const GALLERY_DATA: GalleryImage[] = [
   },
   {
     id: 'gallery-2',
-    src: '/src/assets/images/heritage_garment_care_1793993496548.jpg',
+    src: '/images/heritage_garment_care_1793993496548.jpg',
     title: 'Steam Finishing Craft',
     tag: 'Artisanal Pressing',
     aspect: 'landscape',
@@ -29,7 +29,7 @@ export const GALLERY_DATA: GalleryImage[] = [
   },
   {
     id: 'gallery-3',
-    src: '/src/assets/images/services_dry_cleaning_1793993497624.jpg',
+    src: '/images/services_dry_cleaning_1793993497624.jpg',
     title: 'Boutique Presentation Rack',
     tag: 'Finished Garments',
     aspect: 'portrait',
@@ -38,7 +38,7 @@ export const GALLERY_DATA: GalleryImage[] = [
   },
   {
     id: 'gallery-4',
-    src: '/src/assets/images/services_couture_delicates_1793993497402.jpg',
+    src: '/images/services_couture_delicates_1793993497402.jpg',
     title: 'Silk Weave & Cashmere Preservation',
     tag: 'Couture & Delicates',
     aspect: 'portrait',
@@ -47,7 +47,7 @@ export const GALLERY_DATA: GalleryImage[] = [
   },
   {
     id: 'gallery-5',
-    src: '/src/assets/images/gallery_tailoring_finishing_1793993497270.jpg',
+    src: '/images/gallery_tailoring_finishing_1793993497270.jpg',
     title: 'Bespoke Lapel & Horn Button Detail',
     tag: 'Tailoring Precision',
     aspect: 'square',

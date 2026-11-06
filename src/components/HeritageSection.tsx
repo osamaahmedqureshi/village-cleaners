@@ -42,7 +42,7 @@ export const HeritageSection: React.FC = () => {
               className="relative rounded-sm overflow-hidden shadow-lg bg-[#F8F5EE] group"
             >
               <img
-                src="/src/assets/images/heritage_garment_care_1793993496548.jpg"
+                src="/images/heritage_garment_care_1793993496548.jpg"
                 alt="Artisanal garment care, hand-finishing and steam pressing at work"
                 className="w-full h-auto object-cover aspect-[4/3] sm:aspect-[16/10] transition-transform duration-700 group-hover:scale-103"
                 loading="lazy"

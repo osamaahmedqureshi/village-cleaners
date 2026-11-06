@@ -217,7 +217,7 @@ export const HeroSection: React.FC<HeroSectionProps> = ({ onOpenCareAdvisor }) =
                 className="relative rounded-sm overflow-hidden shadow-xl bg-[#183C35]/5 aspect-[4/3] lg:aspect-[4/5] group"
               >
                 <img
-                  src="/src/assets/images/hero_garment_craft_1793993496017.jpg"
+                 src={new URL('../assets/images/hero_garment_craft_1793993496017.jpg', import.meta.url).href}
                   alt="Tailored charcoal wool suit and pressed shirt on a handcrafted walnut hanger representing Village Cleaners bespoke care"
                   className="w-full h-full object-cover object-center transition-transform duration-700 group-hover:scale-105"
                   referrerPolicy="no-referrer"
